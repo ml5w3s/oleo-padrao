@@ -37,5 +37,5 @@ Quero ajuda para:
 - organizar eventos e payloads
 - boas práticas de backend
 
-Sempre priorize simplicidade, clareza e escalabilidade.
-Evite soluções excessivamente complexas neste momento.
+Sempre priorizando simplicidade, clareza e escalabilidade.
+Evitando soluções excessivamente complexas neste momento.
